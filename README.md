@@ -1,6 +1,6 @@
-<h1 align="center"> Игра "Жизнь" для двух игроков </h1>
+# <img src="https://github.com/AnastasiaKedrina/game-of-life-for-2-players/assets/113825953/08d21cce-efa8-4ff3-8c65-4dce047cdabf" height="35" alt="game logo"  />  Игра "Жизнь" для двух игроков <img src="https://github.com/AnastasiaKedrina/game-of-life-for-2-players/assets/113825953/08d21cce-efa8-4ff3-8c65-4dce047cdabf" height="35" alt="game logo"  /> 
 
-### Написана на Python с использованием библиотеки Pygame
+### <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="20" alt="python logo"  /> Написана на Python с использованием библиотеки Pygame 
 
 <i> Игра "Жизнь" Джона Конвея, придуманная в 1972 г., описывала поведение клетки в зависимости от её окружения. Даже простейший алгоритм приводил к образованию сложных структур, стабильных и изменяющихся, статичных и подвижных, и даже в какой-то степени разумных. "Жизнь" стала удачной кибернетической моделью, и спустя полвека мы наблюдаем бурное развитие нейросетей - обучаемых высокоорганизованных алгоритмов.  </i>
 
@@ -12,13 +12,13 @@ https://github.com/AnastasiaKedrina/game-of-life-for-2-players/assets/113825953/
 <hr>
 
 **Файлы:**
-- **game_of_life.exe** - запускаемый файл
-- **game_of_life.py** - код
+- **game_of_life.exe** - запускаемый файл <img src="https://github.com/AnastasiaKedrina/game-of-life-for-2-players/assets/113825953/08d21cce-efa8-4ff3-8c65-4dce047cdabf" height="15" alt="game logo"  />
+- **game_of_life.py** - код на Python <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="15" alt="python logo"  />
 - <i> icon.ico - иконка </i>
 
 <hr>
 
-**Правила игры Жизнь:**
+**Правила игры "Жизнь" для двух игроков:**
 - Каждая ячейка может находиться в одном из двух состояний:
   - **«живая»** (принадлежит одному из игроков)
   - **«мёртвая»** (не закрашенная)
